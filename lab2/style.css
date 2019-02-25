@@ -1,0 +1,37 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+	color:white;
+	font-family: Georgia;
+	font-size: 14px;
+	line-height: 1.01;
+}
+h2{
+	color:  lime;
+} 
+.box1{
+	
+	background-color: #22299955;
+	border-left:5px grey dotted ;
+
+}
+.box2{
+	
+	background-color: #22299955;
+	border-left:5px grey dotted ;
+	
+	}
+.box3{
+	background-color: #22299955;
+	border-left:5px grey dotted;
+}
+.box4{
+	background-color: #22299955;
+	border-left:5px grey dotted;
+}
+.box5{
+	background-color: #22299955;
+	border-left:5px grey dotted;
+}
